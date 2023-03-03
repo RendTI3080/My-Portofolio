@@ -33,7 +33,7 @@ export default function Home() {
               <li>
                 <a
                   className="bg-gradient-to-r from-cyan-500 text- to-teal-500 text-white px-4 py-2 border-none rounded-md ml-8"
-                  href="https://linktr.ee/rendyekafebriyanto" target="_blank"
+                  href="https://linktr.ee/rendyekafebriyanto" target="_blank" rel="noreferrer"
                 >
                   Resume
                 </a>
@@ -54,20 +54,20 @@ export default function Home() {
             <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600 dark:text-gray-400">
               <a
                 href="https://www.instagram.com/pilotkode/?igshid=ZDdkNTZiNTM="
-                target="_blank"
+                target="_blank" rel="noreferrer"
               >
                 <AiFillInstagram />
               </a>
 
               <a
                 href="https://www.linkedin.com/in/rendyekafebriyanto/"
-                target="_blank"
+                target="_blank" rel="noreferrer"
               >
                 <AiFillLinkedin />
               </a>
               <a
                 href="https://github.com/RendTI3080"
-                target="_blank"
+                target="_blank" rel="noreferrer"
               >
                 <AiFillGithub />
               </a>
